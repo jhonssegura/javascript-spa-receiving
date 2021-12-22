@@ -1,0 +1,27 @@
+{
+  "name": "javascript-spa-receiving",
+  "version": "1.0.0",
+  "description": "SPA Son aplicaciones construidas con JavaScript que nos permiten cargar nuestro contenido una sóla vez, es decir, se envían los archivos HTML, CSS y JS una sóla vez al navegador y ahí es donde va a vivir toda nuestra aplicación, de tal forma que la aplicación no necesita ser recargada, por ello, si se necesita navegar en la aplicación, se navega entre secciones y no páginas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonssegura/javascript-spa-receiving.git"
+  },
+  "author": "Jhonathan Salas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonssegura/javascript-spa-receiving/issues"
+  },
+  "homepage": "https://github.com/jhonssegura/javascript-spa-receiving#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "babel-loader": "^8.2.3",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.0"
+  }
+}
