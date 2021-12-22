@@ -14,6 +14,10 @@ SPA Son aplicaciones construidas con JavaScript que nos permiten cargar nuestro 
 
 * No es recomendable aplicarlas para grandes aplicaciones (Aplicación grande => más de 1000 usuarios y más de 50 secciones en la página).
 
+# Comandos 
+
+    $ npm run build
+
 ## Bibliografía
 
 * https://rickandmortyapi.com/
