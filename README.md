@@ -18,6 +18,8 @@ SPA Son aplicaciones construidas con JavaScript que nos permiten cargar nuestro 
 
     $ npm run build
 
+    $ npm run start
+
 ## Bibliografía
 
 * https://rickandmortyapi.com/
